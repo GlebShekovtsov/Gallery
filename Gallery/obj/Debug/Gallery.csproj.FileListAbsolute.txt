@@ -1,0 +1,9 @@
+C:\Users\Gleb\source\repos\Gallery\Gallery\bin\Debug\Gallery.exe.config
+C:\Users\Gleb\source\repos\Gallery\Gallery\bin\Debug\Gallery.exe
+C:\Users\Gleb\source\repos\Gallery\Gallery\bin\Debug\Gallery.pdb
+C:\Users\Gleb\source\repos\Gallery\Gallery\obj\Debug\Gallery.Form1.resources
+C:\Users\Gleb\source\repos\Gallery\Gallery\obj\Debug\Gallery.Properties.Resources.resources
+C:\Users\Gleb\source\repos\Gallery\Gallery\obj\Debug\Gallery.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\Gallery\Gallery\obj\Debug\Gallery.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\Gallery\Gallery\obj\Debug\Gallery.exe
+C:\Users\Gleb\source\repos\Gallery\Gallery\obj\Debug\Gallery.pdb
